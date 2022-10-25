@@ -37,17 +37,3 @@ while True:
 print("You won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
 print("Goodbye!")
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
